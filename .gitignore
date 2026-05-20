@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+__pycache__
+
+logger
+
+.ipynb_checkpoints
